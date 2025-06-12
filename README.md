@@ -20,5 +20,5 @@ The input data to replicate the simulations are organized as follows:
   - `tpr/`: Folder containing the pdb and tpr files.
 
   - `Topologies/`: Folder containing the topology defining the system.
-# Aknowledgment
+# Acknowledgement
 This work was supported by Fondazione Telethon (Grant #GSP 20005_PAsIAHSP007) and Associazione Help Olly Onlus (https://helpolly.it/) – Italy, within the framework of CRYSTAL (www.crystal.m3b.it). 
